@@ -5,20 +5,20 @@
 
 * {
     margin: 0px;
-    color: var(--text);
 }
 
 body {
     background-color: var(--theme);
+    color: var(--text);
     text-align: center;
     font-family: sans-serif;
 }
 
-.container {
+#container {
+    margin-top: 100px;
     width: 80%;
     max-width: 400px;
     margin-inline: auto;
-    margin-top: 100px;
 }
 
 h1 {
@@ -42,6 +42,7 @@ input, button {
 
 input {
     margin-bottom: 20px;
+    box-sizing: border-box;
 }
 
 button {
