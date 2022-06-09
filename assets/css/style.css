@@ -15,9 +15,13 @@ body {
 }
 
 #container {
-    margin-top: 100px;
-    width: 80%;
+    width: 100vw;
+    height: calc(100vh - 100px);
     max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin-inline: auto;
 }
 
