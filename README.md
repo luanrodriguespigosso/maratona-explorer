@@ -1,5 +1,7 @@
-# maratona-explorer
-Desafio Rocketseat
+# Maratona Explorer - Rocketseat
 
+# Resultado Final do Projeto
 
-*fronteditor.dev
+<h1 align="center">
+    <img src="/assets/img/printResultadoFinal.png" alt="Imagem com o resultado do projeto finalizado">
+</h1>
