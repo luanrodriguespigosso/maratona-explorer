@@ -15,8 +15,8 @@ body {
 }
 
 #container {
-    width: 100vw;
-    height: calc(100vh - 100px);
+    width: 100%;
+    height: auto;
     max-width: 400px;
     display: flex;
     flex-direction: column;
@@ -26,7 +26,8 @@ body {
 }
 
 img {
-    width: 70%;
+    width: 50%;
+    margin-top: 100px;
 }
 
 @keyframes float{
