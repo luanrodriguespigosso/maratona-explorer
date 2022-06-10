@@ -78,6 +78,10 @@ button:hover {
     cursor: pointer;
 }
 
+h3 {
+    margin-bottom: 30px;
+}
+
 #resposta {
     margin-top: 30px;
     transition: opacity 1s;
